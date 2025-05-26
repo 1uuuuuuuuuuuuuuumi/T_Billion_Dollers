@@ -55,14 +55,36 @@
 
 ## 🟣 **시연 영상** 
 
-## 📽️ IoT기기를 활용한 실시간 환경데이터 시각화
+## 1️⃣ IoT기기를 활용한 실시간 환경데이터 시각화
 
-| 번호  | 설명                         | 링크                                                                 |
-|-------|------------------------------|----------------------------------------------------------------------|
-| 🎬 1 | 관리자 기능 시연             | [▶ 영상 보러가기](https://github.com/user-attachments/assets/dec07a04-8982-4062-ad15-0094dbd987e7) |
-| 🎬 2 | 회원가입 · 로그인 흐름       | [▶ 영상 보러가기](https://github.com/user-attachments/assets/bfd93fc9-a079-4785-8e9e-cedc1baa4530) |
-| 🎬 3 | IoT 데이터 차트 및 제어 기능 | [▶ 영상 보러가기](https://github.com/user-attachments/assets/125a2104-b99d-48ec-a3bf-2a90b53a0048) |
-| 🎬 4 | 전체 사용자 흐름 시연        | [▶ 영상 보러가기](https://github.com/user-attachments/assets/37abfdff-955d-47db-941b-a6f042ded8bc) |
+| 번호  | 설명             | 링크                                                                 |
+|-------|------------------|----------------------------------------------------------------------|
+| 🎬 1 | 온도 센서 동작 시연 | [▶ 영상 보러가기](https://github.com/user-attachments/assets/4d1715b5-bed0-414a-a516-733ed3165d03) |
+| 🎬 2 | 모션 감지 테스트    | [▶ 영상 보러가기](https://github.com/user-attachments/assets/6450e30a-aee7-42e7-a915-8b3e0c6d29c5) |
+
+<br/>
+
+## 2️⃣ 웹 쇼핑몰 (가상)
+
+| 번호  | 설명                           | 링크                                                                 |
+|-------|--------------------------------|----------------------------------------------------------------------|
+| 🎬 1 | 회원가입 + 로그인 시연 영상     | [▶ 영상 보러가기](https://github.com/user-attachments/assets/a6de4470-111a-4890-a1b7-3f426904298f) |
+| 🎬 2 | 마이페이지 기능                 | [▶ 영상 보러가기](https://github.com/user-attachments/assets/6235a36b-4e3d-4561-98db-4e399a8b41de) |
+| 🎬 3 | 상세페이지 + 장바구니 기능      | [▶ 영상 보러가기](https://github.com/user-attachments/assets/06dc2393-1f0c-4d67-a507-ce7868ffe36f) |
+| 🎬 4 | 관리자 페이지 기능              | [▶ 영상 보러가기](https://github.com/user-attachments/assets/f365bb3f-c5b6-455a-a256-d148851ddaef) |
+
+<br/>
+
+## 3️⃣ App
+
+| 번호  | 설명                          | 링크                                                                 |
+|-------|-------------------------------|----------------------------------------------------------------------|
+| 🎬 1 | 반응형 웹앱        | [▶ 영상 보러가기](https://github.com/user-attachments/assets/7844cc26-896d-4e0a-baeb-6e57e984ea3b) |
+| 🎬 2 | IoT 센서 제어 기능             | [▶ 영상 보러가기](https://github.com/user-attachments/assets/183ab977-2773-44fd-b22e-99aa7521af60) |
+| 🎬 3 | JWT 토큰 기반 로그인/연장 처리 | [▶ 영상 보러가기](https://github.com/user-attachments/assets/3236b68a-f630-41ce-b7b0-f0261fd31f78) |
+| 🎬 4 | 어플리케이션 전체 레이아웃     | [▶ 영상 보러가기](https://github.com/user-attachments/assets/785c8970-2861-49dc-8c16-5b671703194e) |
+
+
 
 
 <br/><br/><br/>
